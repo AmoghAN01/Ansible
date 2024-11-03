@@ -1,1 +1,2 @@
 Ansible Playbooks
+The first playbook is for pinging to check a server's connection using ansible.
