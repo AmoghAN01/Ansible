@@ -1,2 +1,2 @@
 Ansible Playbooks
-This playbook is for pinging to check a server's connection using ansible.
+This playbook is to ping a server to check its connection using ansible.
